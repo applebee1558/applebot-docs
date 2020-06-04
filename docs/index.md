@@ -1,4 +1,6 @@
 # Welcome to Apple Bot Documentation
 
 ## Modules
-    s
+### Moderation
+### Music
+### Fun
