@@ -14,3 +14,8 @@ Bans the user specified in the user parameter, purging messages according to the
 Usage: `[prefix]kick <user> [reason]`
 
 Kicks the user from the server with the reason specified in the reason paramater.
+
+## Mute
+Usage: `[prefix]mute <user> [time] [reason]`
+
+Gives the user the muterole set with `[prefix]set edit muterole <role>` for the duration time (which is in seconds) and an optional reason that gets logged. This command will turn the mute to a permanent mute if the user leaves the server and tries to evade the role.
