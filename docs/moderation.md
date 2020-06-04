@@ -19,3 +19,23 @@ Kicks the user from the server with the reason specified in the reason paramater
 Usage: `[prefix]mute <user> [time] [reason]`
 
 Gives the user the muterole set with `[prefix]set edit muterole <role>` for the duration time (which is in seconds) and an optional reason that gets logged. This command will turn the mute to a permanent mute if the user leaves the server and tries to evade the role.
+
+## Purge
+Usage: `[prefix]purge <amount>`
+
+Deletes `<amount>` number of messages from the current channel.
+
+## Role
+Usage: `[prefix]role <user> [role]`
+
+Givers or removes `[role]` from `<user>` relative to whether or not they have the role.
+
+## Voice Channel Kick
+Usage: `[prefix]vckick <user>`
+
+Kicks `<user>` from the current voice channel that they are within.
+
+## Words
+Usage: `[prefix]words <add/clear/delete> [banned word]`
+
+Adds or removes `[banned word]` from the banned words list. Messages that contain banned words will me automatically deleted from channels the bot has access to. `<.../clear/...>` will clear the banned words list.
