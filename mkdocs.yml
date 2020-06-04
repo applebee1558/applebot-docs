@@ -1,3 +1,8 @@
 site_name: Apple Bot Documentation
+repo_name: 'applebot_docs '
+repo_url: 'https://github.com/applebee1558/applebot_docs'
 theme:
-  name: gitbook
+  name: material
+nav:
+    - Home: index.md
+    - Moderation: moderation.md
