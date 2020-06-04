@@ -3,6 +3,15 @@ repo_name: 'applebot_docs '
 repo_url: 'https://github.com/applebee1558/applebot_docs'
 theme:
   name: material
+  palette:
+    primary: 'purple'
+    accent: 'orange'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+markdown_extensions:
+  - codehilite
+  - admonition
 nav:
     - Home: index.md
     - Moderation: moderation.md
