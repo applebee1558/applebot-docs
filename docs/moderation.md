@@ -39,3 +39,15 @@ Kicks `<user>` from the current voice channel that they are within.
 Usage: `[prefix]words <add/clear/delete> [banned word]`
 
 Adds or removes `[banned word]` from the banned words list. Messages that contain banned words will me automatically deleted from channels the bot has access to. `<.../clear/...>` will clear the banned words list.
+
+## Record
+Usage: `[prefix]record <start/stop/purge>`
+
+Start: Starts a recording in the channel
+Stop: Stops current recording
+Purge: Purges the messages found during last recording
+
+## TempRole
+Usage: `[prefix]temprole [member] [time] [role]`
+
+Gives `[member]` the `[role]` for x amount of time
