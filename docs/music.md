@@ -21,3 +21,18 @@ Valid queries are `ytsearch: song name`(searches youtube) and `scearch: song nam
 Usage: `[prefix][np|now_playing]
 
 Shows the status of the current song playing. The round icon would be a pause icon if the current queue is paused.
+
+## View Queue
+Usage: `[prefix][queue]`
+
+Shows the current pending queue, and a embed paginator if there is too much songs to fit in one page.
+
+## Skip
+Usage: `[prefix][skip]`
+
+Skips the current song and plays the next one in the queue.
+
+## Pause
+Usage: `[prefix][pause]`
+
+Pauses the current queue until the `resume` command is used.
