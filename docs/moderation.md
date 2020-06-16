@@ -1,6 +1,8 @@
 # Moderation Module
-The moderation module has many commands that can help you with moderating your server. All commands in this module currently require you to have the 
-`ADMINISTRATOR` permission in order to use it. This will be customizable and changable in the future.
+The moderation module has many commands that can help you with moderating your server. 
+
+!!! danger "Warning"
+    As of 6/15/2020, this module has changed a LOT and this documentation is outdated. This message will be removed once I update these docs.
 
 !!! note "Note" 
     Replace [prefix] with the prefix that the bot is set to in your server. If you forgot your prefix, just mention the bot to get the prefix set.
