@@ -15,8 +15,7 @@ For the query field, you can pass keywords and it will default to youtube search
 Valid queries are `ytsearch: song name`(searches youtube) and `scearch: song name`(for soundcloud)
 
 !!! note "Note" 
-    There are more query types, but are just not listed here. Check lavaplayer for all the types you can pass.
-
+    There are many other supported sources such as twich and bandcamp, but you must paste the link instead of searching.
 ## Now Playing
 Usage: `[prefix][np|now_playing]
 
