@@ -17,7 +17,7 @@ Valid queries are `ytsearch: song name`(searches youtube) and `scearch: song nam
 !!! note "Note" 
     There are many other supported sources such as twich and bandcamp, but you must paste the link instead of searching.
 ## Now Playing
-Usage: `[prefix][np|now_playing]
+Usage: `[prefix][np|now_playing]`
 
 Shows the status of the current song playing. The round icon would be a pause icon if the current queue is paused.
 
