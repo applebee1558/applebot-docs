@@ -5,7 +5,7 @@ The moderation module has many commands that can help you with moderating your s
     As of 6/15/2020, this module has changed a LOT and this documentation is outdated. This message will be removed once I update these docs.
 
 !!! danger "Critical Alert"
-As of 07/02/2021, this documentation is even more severely outdated. Please do not read this until someone fixes it.
+    As of 07/02/2021, this documentation is even more severely outdated. Please do not read this until someone fixes it.
 
 !!! note "Note" 
     Replace [prefix] with the prefix that the bot is set to in your server. If you forgot your prefix, just mention the bot to get the prefix set.
